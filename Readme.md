@@ -1,1 +1,2 @@
-# Em construção
+# Em construção && du -sh
+du -sh /opt/psa && du -sh  /tmp && du -sh  /var/cache/apt && du -sh  /var/lib/mysql && du -sh  /var/lib/psa/dumps && du -sh  /var/log && du -sh  /var/named/run-root && du -sh  /var/qmail/mailnames && du -sh  /var/www/vhosts
